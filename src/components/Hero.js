@@ -4,7 +4,7 @@ import HeroPic from "../images/Group 77.png";
 const Hero = () => {
   return (
     <div className="hero-content">
-      <img src={HeroPic} alt="Banner Image" />
+      <img src={HeroPic} alt="Fuck you, Compiler Warning." />
       <h1>Online Experiences</h1>
       <h2>
         Join unique interactive activities led by one-of-a-kind hosts—all
